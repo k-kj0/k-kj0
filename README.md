@@ -1,17 +1,18 @@
-Software Engineer & Open Source Contributor | Python • AI/ML • Cloud | Netflix Metaflow & VS Code Contributor
+#### Headline
+B.Tech CSE @ Amity University | Open Source Contributor (Netflix, Microsoft) | Building AI Agents & Economic Intelligence
 
-About/Bio
-B.Tech CSE student (2026) focused on building resilient AI systems and contributing to core developer tools.
+#### About/Bio
+I build production-ready AI agents and contribute to the tools that power them.
 
-🚀 Currently: Building EconAgent for Google Cloud’s Rapid Agent Hackathon.
-🛠 Open Source: Contributed bug fixes to Netflix/Metaflow (Windows platform guards) and UI tokens to Microsoft/VS Code.
-🧠 Specialization: Python, Generative AI (Gemini/Claude), and building production-ready REST APIs.
-🏆 Recognition: Devpost Gold Badge winner with 4+ hackathon completions.
+Open Source: Merged Windows compatibility fixes in Netflix/Metaflow and UI tokens in Microsoft/VS Code.
+AI & Agents: Developing 'EconAgent' for Google Cloud's Rapid Agent Hackathon ($50K pool) and built 'InflationIQ,' a live forecasting platform using Claude 3.5.
+Cloud & DevOps: Credly-verified AWS GenAI and Google Cloud Arcade skilled; focused on scalable Python backends (Flask, Gemini API, Elasticsearch).
+Seeking opportunities in Software Engineering and AI Development.
+#### Top 3 Highlight Items
 
-Top Highlights
-Netflix Metaflow Contributor: Fixed critical Windows compatibility bugs in the timeout_decorator and card_cli used by ML engineers globally.
-InflationIQ: Built a real-time economic intelligence platform using Claude 3.5 Sonnet and Python, featuring a tiered-access REST API.
-JPMorgan Chase (Simulation): Completed advanced software engineering tasks including backend system design and automated testing for financial systems.
+Netflix/Metaflow Core Contribution: Multi-platform stability fix for timeout decorators used in production ML pipelines.
+InflationIQ (Live Platform): End-to-end fintech AI generating commodity forecasts and investment signals using LLMs.
+JPM Chase Engineering Simulation: Implemented backend systems, JUnit testing, and high-volume financial scaffolding.
 
 
 # 💻 Tech Stack:

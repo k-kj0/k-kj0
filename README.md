@@ -1,6 +1,8 @@
 Software Engineer & Open Source Contributor | Python • AI/ML • Cloud | Netflix Metaflow & VS Code Contributor
+
 About/Bio
 B.Tech CSE student (2026) focused on building resilient AI systems and contributing to core developer tools.
+
 🚀 Currently: Building EconAgent for Google Cloud’s Rapid Agent Hackathon.
 🛠 Open Source: Contributed bug fixes to Netflix/Metaflow (Windows platform guards) and UI tokens to Microsoft/VS Code.
 🧠 Specialization: Python, Generative AI (Gemini/Claude), and building production-ready REST APIs.

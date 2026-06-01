@@ -1,5 +1,15 @@
-# 💫 About Me:
-🚀 I like building things that actually work — not just look good in a repo.<br>💻 Currently experimenting with deployments, APIs, and real-world projects (and breaking them… a lot).<br>🤝 Open to collaborating on anything interesting — especially projects that solve real problems.<br>🧠 Learning by doing: debugging > tutorials.<br>💬 Ask me about failed deployments, last-minute fixes, and “why is this not working?” moments.<br>⚡ Fun fact: I’ve probably tried every hosting platform and still managed to get stuck.
+Software Engineer & Open Source Contributor | Python • AI/ML • Cloud | Netflix Metaflow & VS Code Contributor
+About/Bio
+B.Tech CSE student (2026) focused on building resilient AI systems and contributing to core developer tools.
+🚀 Currently: Building EconAgent for Google Cloud’s Rapid Agent Hackathon.
+🛠 Open Source: Contributed bug fixes to Netflix/Metaflow (Windows platform guards) and UI tokens to Microsoft/VS Code.
+🧠 Specialization: Python, Generative AI (Gemini/Claude), and building production-ready REST APIs.
+🏆 Recognition: Devpost Gold Badge winner with 4+ hackathon completions.
+
+Top Highlights
+Netflix Metaflow Contributor: Fixed critical Windows compatibility bugs in the timeout_decorator and card_cli used by ML engineers globally.
+InflationIQ: Built a real-time economic intelligence platform using Claude 3.5 Sonnet and Python, featuring a tiered-access REST API.
+JPMorgan Chase (Simulation): Completed advanced software engineering tasks including backend system design and automated testing for financial systems.
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 #### Headline
-B.Tech CSE @ Amity University | Open Source Contributor (Netflix, Microsoft) | Building AI Agents & Economic Intelligence
+B.Tech CSE | Open Source Contributor (Netflix, Microsoft) | Building AI Agents & Economic Intelligence
 
 #### About/Bio
 I build production-ready AI agents and contribute to the tools that power them.

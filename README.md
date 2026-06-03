@@ -8,7 +8,7 @@ Open Source: Merged Windows compatibility fixes in Netflix/Metaflow and UI token
 AI & Agents: Developing 'EconAgent' for Google Cloud's Rapid Agent Hackathon ($50K pool) and built 'InflationIQ,' a live forecasting platform using Claude 3.5.
 Cloud & DevOps: Credly-verified AWS GenAI and Google Cloud Arcade skilled; focused on scalable Python backends (Flask, Gemini API, Elasticsearch).
 Seeking opportunities in Software Engineering and AI Development.
-#### Top 3 Highlight Items
+#### What I did
 
 Netflix/Metaflow Core Contribution: Multi-platform stability fix for timeout decorators used in production ML pipelines.
 InflationIQ (Live Platform): End-to-end fintech AI generating commodity forecasts and investment signals using LLMs.

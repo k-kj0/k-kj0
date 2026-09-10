@@ -1,18 +1,25 @@
-#### Headline
-B.Tech CSE | Open Source Contributor (Netflix, Microsoft) | Building AI Agents & Economic Intelligence
+### Headline
+Full-stack & AI/ML Engineer | RAG, agents & dev tooling | Open Source (Netflix, Microsoft)
 
-#### About/Bio
-I build production-ready AI agents and contribute to the tools that power them.
+### About/Bio
+I build tools that solve a specific, real problem — most recently a CLI + MCP server that scans codebases for Supabase's legacy API key deprecation, with every explanation grounded and cited against Supabase's own docs, not model guesswork.
 
-Open Source: Merged Windows compatibility fixes in Netflix/Metaflow and UI tokens in Microsoft/VS Code.
-AI & Agents: Developing 'EconAgent' for Google Cloud's Rapid Agent Hackathon ($50K pool) and built 'InflationIQ,' a live forecasting platform using Claude 3.5.
-Cloud & DevOps: Credly-verified AWS GenAI and Google Cloud Arcade skilled; focused on scalable Python backends (Flask, Gemini API, Elasticsearch).
-Seeking opportunities in Software Engineering and AI Development.
-#### What I did
+**Open Source:** Merged PRs into Netflix/Metaflow (Windows compatibility fixes) and Microsoft/VS Code (Activity Bar theming).
 
-Netflix/Metaflow Core Contribution: Multi-platform stability fix for timeout decorators used in production ML pipelines.
-InflationIQ (Live Platform): End-to-end fintech AI generating commodity forecasts and investment signals using LLMs.
-JPM Chase Engineering Simulation: Implemented backend systems, JUnit testing, and high-volume financial scaffolding.
+**AI & Agents:** Built RAG pipelines, multi-provider LLM integration (Gemini + open-weight models via Groq), and agent tooling across several projects — see pinned repos below.
+
+**Background:** B.Tech CS (Amity University) + B.Sc Data Science & AI (IIT Guwahati, online) + CS50x. Google Gemini Ambassador & Google Cloud Campus Ambassador — ran live workshops onboarding 100+ developers.
+
+Open to Software Engineering and AI Platform roles — Python, FastAPI, PostgreSQL, RAG systems.
+
+### What I did
+**supabase-migrate-doctor:** Built a CLI + MCP server that scans repos for Supabase's deprecated API keys, risk-scores each finding, and explains fixes grounded in Supabase's own migration docs with a citation on every answer. Detection logic verified against a labeled test set at 1.0 precision/recall.
+
+**Netflix/Metaflow:** Multi-platform stability fix for timeout decorators used in production ML pipelines.
+
+**Investment/forecasting tooling (FinIQ / InflationIQ):** Personal projects exploring LLM-based commodity and portfolio forecasting — prototype stage, self-tested.
+
+**JPM Chase Engineering Simulation:** Implemented backend systems, JUnit testing, and financial data scaffolding.
 
 
 # 💻 Tech Stack:

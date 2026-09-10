@@ -8,7 +8,7 @@ I build tools that solve a specific, real problem — most recently a CLI + MCP 
 
 **AI & Agents:** Built RAG pipelines, multi-provider LLM integration (Gemini + open-weight models via Groq), and agent tooling across several projects — see pinned repos below.
 
-**Background:** B.Tech CS (Amity University) + B.Sc Data Science & AI (IIT Guwahati, online) + CS50x. Google Gemini Ambassador & Google Cloud Campus Ambassador — ran live workshops onboarding 100+ developers.
+**Background:** B.Tech CS + B.Sc Data Science & AI (IIT Guwahati, online) + CS50x. Google Gemini Ambassador — ran live workshops onboarding 100+ developers.
 
 Open to Software Engineering and AI Platform roles — Python, FastAPI, PostgreSQL, RAG systems.
 

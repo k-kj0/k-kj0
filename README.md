@@ -4,6 +4,8 @@ Full-stack & AI/ML Engineer | RAG, agents & dev tooling | Open Source
 ### About/Bio
 I build tools that solve a specific, real problem — most recently a CLI + MCP server that scans codebases for Supabase's legacy API key deprecation, with every explanation grounded and cited against Supabase's own docs, not model guesswork.
 
+Open Source: opened PRs to Netflix/Metaflow (Windows compatibility fixes) and Microsoft/VS Code (Activity Bar theming). The VS Code PR is currently under review.
+
 **AI & Agents:** Built RAG pipelines, multi-provider LLM integration (Gemini + open-weight models via Groq), and agent tooling across several projects — see pinned repos below.
 
 **Background:** B.Tech CS + B.Sc Data Science & AI (IIT Guwahati, online) + CS50x. Google Gemini Ambassador — ran live workshops onboarding 100+ developers.
